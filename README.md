@@ -5,6 +5,7 @@
         `npm run start`
     - push repo up
     - (R) - create directory, clone repo
+    - (R) - install deps `npm install`
     - (R) - test dev build of app: `npm run dev`
     - (R) - test 'build' and 'start' -- `npm run build` and `npm run start`
     - (R) - setup pm2 for persitent restarts (set port)
