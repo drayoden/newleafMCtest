@@ -62,7 +62,7 @@ export const SubscribeSection = () => {
                         name="subscribe"
                         value="subscribed"
                         />
-                    <label for="sub1">Subscribe</label> 
+                    <label htmlFor="sub1">Subscribe</label> 
                 </form>
                 <div className="min-h-[75px] flex justify-center items-center">
                     {subscribeSuccess && <p className="text-green-500">{subscribeSuccess}</p>} 
